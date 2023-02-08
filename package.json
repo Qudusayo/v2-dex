@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "13.1.6",
+    "@ant-design/icons": "^5.0.1",
+    "antd": "^5.2.0",
+    "axios": "^1.3.2",
     "eslint": "8.33.0",
     "eslint-config-next": "13.1.6",
+    "moralis": "^2.14.0",
     "next": "13.1.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "wagmi": "^0.11.5"
   }
 }
